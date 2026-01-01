@@ -63,7 +63,7 @@ SSH and SFTP client written in pure Dart, aiming to be feature-rich as well as e
       <img src="https://github.com/hsduren/dartshell/blob/main/info1.png" width="300px" alt="dartShell interface">
     </td>
     <td>
-      <a href="你的AppStore链接地址">
+      <a href="https://apps.apple.com/us/app/naviterm-ssh-sftp-tunnels/id6747072398">
         <img src="https://raw.githubusercontent.com/jc-hk-1916/NaviTerm/main/images/1.png" width="300px" alt="NaviTerm: Professional SSH Terminal for iOS">
       </a>
     </td>
