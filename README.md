@@ -35,39 +35,37 @@ SSH and SFTP client written in pure Dart, aiming to be feature-rich as well as e
 
 <table>
   <tr>
-    <!-- ServerBox -->
     <td style="text-align: center;">
       <b><a href="https://github.com/LollipopKit/flutter_server_box">ServerBox</a></b>
     </td>
-    <!-- NoPorts -->
     <td style="text-align: center;">
       <b><a href="https://github.com/atsign-foundation/noports">NoPorts</a></b>
     </td>
-    <!-- dartShell -->
     <td style="text-align: center;">
       <b><a href="https://github.com/hsduren/dartshell">DartShell</a></b>
+    </td>
+    <td style="text-align: center;">
+      <b><a href="https://github.com/jc-hk-1916/NaviTerm">Naviterm</a></b>
     </td>
   </tr>
 
   <tr> 
-    <!-- ServerBox -->
     <td>
-      <img src="https://raw.githubusercontent.com/TerminalStudio/dartssh2/master/media/showcase-1-serverbox.1.jpg" width="150px" alt="ServerBox interface displaying connection management options">
-      <img src="https://raw.githubusercontent.com/TerminalStudio/dartssh2/master/media/showcase-1-serverbox.2.png" width="150px" alt="ServerBox user interface for server control and monitoring">
+      <img src="https://raw.githubusercontent.com/TerminalStudio/dartssh2/master/media/showcase-1-serverbox.1.jpg" width="150px" alt="ServerBox interface">
+      <img src="https://raw.githubusercontent.com/TerminalStudio/dartssh2/master/media/showcase-1-serverbox.2.png" width="150px" alt="ServerBox interface">
     </td>
-    <!-- NoPorts -->
     <td>
       <a href="https://asciinema.org/a/496148">
-        <img src="https://user-images.githubusercontent.com/6131216/185263634-07e8dba7-b5a8-44fc-ac44-8703e247143f.png" width="300px" alt="NoPorts demo showcasing SSH connectivity without open ports">
+        <img src="https://user-images.githubusercontent.com/6131216/185263634-07e8dba7-b5a8-44fc-ac44-8703e247143f.png" width="300px" alt="NoPorts demo">
       </a>
     </td>
-    <!-- dartShell -->
     <td>
-      <img src="https://github.com/hsduren/dartshell/blob/main/info1.png" width="300px" alt="dartShell displaying terminal and session information for SSH operations">
+      <img src="https://github.com/hsduren/dartshell/blob/main/info1.png" width="300px" alt="dartShell interface">
     </td>
-    <!-- NaviTerm -->
     <td>
-      <img src="https://raw.githubusercontent.com/jc-hk-1916/NaviTerm/main/images/1.png" width="300px" alt="Screenshot of NaviTerm application built with dartssh2">
+      <a href="你的AppStore链接地址">
+        <img src="https://raw.githubusercontent.com/jc-hk-1916/NaviTerm/main/images/1.png" width="300px" alt="NaviTerm: Professional SSH Terminal for iOS">
+      </a>
     </td>
   </tr>
 </table>
