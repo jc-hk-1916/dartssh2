@@ -59,7 +59,7 @@ SSH and SFTP client written in pure Dart, aiming to be feature-rich as well as e
       <img src="https://raw.githubusercontent.com/TerminalStudio/dartssh2/master/media/showcase-1-serverbox.1.jpg" width="150px" alt="ServerBox interface displaying connection management options">
       <img src="https://raw.githubusercontent.com/TerminalStudio/dartssh2/master/media/showcase-1-serverbox.2.png" width="150px" alt="ServerBox user interface for server control and monitoring">
     </td>
-     <!-- NoPorts -->
+    <!-- NoPorts -->
     <td>
       <a href="https://asciinema.org/a/496148">
         <img src="https://user-images.githubusercontent.com/6131216/185263634-07e8dba7-b5a8-44fc-ac44-8703e247143f.png" width="300px" alt="NoPorts demo showcasing SSH connectivity without open ports">
@@ -72,7 +72,7 @@ SSH and SFTP client written in pure Dart, aiming to be feature-rich as well as e
     <!-- NaviTerm -->
     <td>
       <a href="https://apps.apple.com/us/app/naviterm-ssh-sftp-tunnels/id6747072398">
-        <img src="https://raw.githubusercontent.com/jc-hk-1916/NaviTerm/main/images/1.png" width="300px" alt="NaviTerm: Professional SSH Terminal for iOS">
+        <img src="https://raw.githubusercontent.com/jc-hk-1916/NaviTerm/main/images/1.png" width="300px" alt="Your all-in-one SSH terminal, SFTP client, and port forwarding tool, built from the ground up for macOS, iPhone, and iPad.">
       </a>
     </td>
   </tr>
