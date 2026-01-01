@@ -65,6 +65,10 @@ SSH and SFTP client written in pure Dart, aiming to be feature-rich as well as e
     <td>
       <img src="https://github.com/hsduren/dartshell/blob/main/info1.png" width="300px" alt="dartShell displaying terminal and session information for SSH operations">
     </td>
+    <!-- NaviTerm -->
+    <td>
+      <img src="https://raw.githubusercontent.com/jc-hk-1916/NaviTerm/main/images/1.png" width="300px" alt="Screenshot of NaviTerm application built with dartssh2">
+    </td>
   </tr>
 </table>
 
